@@ -1941,7 +1941,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b545ff;
+  background: #beff71;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2739,5 +2739,5 @@ body {
   background-size: cover;
 }
 .main-inner {
-  opacity: 0.5;
+  opacity: 0.95;
 }
